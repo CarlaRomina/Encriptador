@@ -21,16 +21,7 @@ p{
     text-align:center
 }
 
-footer{
 
-    position: absolute;
-    width: 350px;
-    height: 100px;
-    left: 350px;
-    top: 580px;
-    
-
-}
 
 .realizado{
 
@@ -58,6 +49,34 @@ footer{
         width: 375px;
        
        
+    }
+
+    footer{
+
+        position: absolute;
+        position: absolute;
+        left: -25px;
+        top: 580px;
+
+    }
+
+    .realizado{
+    
+        font-size:14px;
+    }
+    
+    .imgLog{
+        position: absolute;
+        left: 180px;
+        top: 35px;
+        
+    }
+    
+    .imgLog2{
+        position: absolute;
+        left: 140px;
+        top: 35px;
+        
     }
 
     .logo{
@@ -298,22 +317,32 @@ footer{
         padding-top:20px;
         font-size: 25px;
     }  
+    footer{
+
+        position: absolute;
+        width: 350px;
+        height: 100px;
+        left: 350px;
+        top: 580px;
+        
+    
+    }
     
 
-.logo{
+    .logo{
 
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0px;
-    position: absolute;
-    /* width: 120px; */
-    height:200px;
-    left: 40px;
-    top: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px;
+        position: absolute;
+        /* width: 120px; */
+        height:200px;
+        left: 40px;
+        top: 40px;
 
 
-}
+}       
 
  
 .inputTexto{
