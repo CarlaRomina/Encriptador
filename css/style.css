@@ -40,18 +40,12 @@ p{
         height:100px;
         left: 10px;
         top: 30px;
-    
-       
-
-    
-    }
+     }
 
     header h3{
         padding-left:100px;
         padding-top:50px;
         font-size:15px;
-
-
     }
 
     .inputTexto{
@@ -264,30 +258,17 @@ p{
     }
 
 
-
-
-
-
-
-
-
-
 }
 
 
 @media(min-width:1024px){
-
     
-    
-    
-
     header h3{
         padding-left: 300px;
         padding-top:20px;
         font-size: 25px;
     }  
     
-/* logo */
 
 .logo{
 
@@ -304,8 +285,6 @@ p{
 
 }
 
-
-/* Ingrese el texto aqui */
  
 .inputTexto{
 
@@ -347,8 +326,6 @@ p{
 
 
 }
-
-
 
 .btnE {
 
@@ -392,8 +369,6 @@ p{
 
 }
     
-
-
 .btn1{
 
     box-sizing: border-box;
