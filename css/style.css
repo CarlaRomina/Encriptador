@@ -21,6 +21,36 @@ p{
     text-align:center
 }
 
+footer{
+
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    left: 350px;
+    top: 580px;
+    
+
+}
+
+.realizado{
+
+    font-size:14px;
+}
+
+.imgLog{
+    position: absolute;
+    left: 180px;
+    top: 35px;
+    
+}
+
+.imgLog2{
+    position: absolute;
+    left: 140px;
+    top: 35px;
+    
+}
+
 
 @media (min-width: 375px){
 
@@ -340,7 +370,7 @@ p{
     width:200px;
     height: 50px;
     left: 300px;
-    top: 550px;
+    top: 520px;
 
     border: 1px solid #c97eac;
     border-radius: 24px;
@@ -361,7 +391,7 @@ p{
     width:200px;
     height: 50px;
     left: 550px;
-    top: 550px;
+    top: 520px;
 
     border: 1px solid #c97eac;
     border-radius: 24px;
@@ -387,6 +417,8 @@ p{
     border-radius: 24px;
 
 }
+
+
 
 
 }
